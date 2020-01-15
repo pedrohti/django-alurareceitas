@@ -42,7 +42,7 @@ source /enviroment_name/bin/activate
 Windows:
 
 ```sh
-/enviroment_name/Scripts/activate.bat
+/enviroment_name/Scripts/activate
 ```
 
 ### Install the Dependencies
